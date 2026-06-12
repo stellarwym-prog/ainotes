@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.2.0",
   "update_url": "https://github.com/stellarwym-prog/ainotes/releases/download/v1.1.0/app-debug.apk",
   "force_update": false,
-  "changelog": "新功能：\n- 新增编辑资料（昵称/性别/年龄/签名）\n- 登录/注册/游客模式\n- 版本更新检测与自动下载\n- 全局提示优化\nBug修复：\n- 图片与录音同时保存问题\n- 文件夹计数错误"
+  "changelog": "新功能：\n- 添加 flutter_localizations 支持，修复中文环境报错\nBug修复：\n- 修复启动时导航崩溃问题\n- 修复 Android 字体乱码问题\n- 修复 MaterialLocalizations 报错\n- 优化音频录制体验"
 }
