@@ -1,0 +1,6 @@
+{
+  "latest_version": "1.0.0",
+  "update_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/app-release.apk",
+  "force_update": false,
+  "changelog": "📝 更新内容：\n- 首次发布"
+}
