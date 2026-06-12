@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "update_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.0.0/app-release.apk",
+  "latest_version": "1.1.0",
+  "update_url": "https://github.com/stellarwym-prog/ainotes/releases/download/v1.1.0/app-debug.apk",
   "force_update": false,
-  "changelog": "📝 更新内容：\n- 首次发布"
+  "changelog": "新功能：\n- 新增编辑资料（昵称/性别/年龄/签名）\n- 登录/注册/游客模式\n- 版本更新检测与自动下载\n- 全局提示优化\nBug修复：\n- 图片与录音同时保存问题\n- 文件夹计数错误"
 }
