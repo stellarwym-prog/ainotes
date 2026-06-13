@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.1",
-  "update_url": "https://github.com/stellarwym-prog/ainotes/releases/download/v1.1.1/app-debug.apk",
+  "latest_version": "1.2.0",
+  "update_url": "https://github.com/stellarwym-prog/ainotes/releases/download/v1.2.0/app-release.apk",
   "force_update": false,
-  "changelog": "修复：APK 安装解析错误的问题"
+  "changelog": "星火图谱AI深度分析、AI分类开关、AI星火图谱开关"
 }
